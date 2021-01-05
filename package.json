@@ -19,6 +19,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://nedas-dev.github.io/async-await-dogAPI"
+    "url": "http://nedas-dev.github.io/async-await-dogAPI.api"
   }
 }
